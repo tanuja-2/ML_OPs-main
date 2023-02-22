@@ -8,9 +8,9 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'classification-model'
 DESCRIPTION = "Classification Model for titanic survival"
-URL = "https://github.com/muskanrath30/test/tree/main/Session_3_ML_Pipeline/titanic-assignment/Assignment%202"
-EMAIL = "muskanrath30@gmail.com"
-AUTHOR = "Muskan Rath"
+URL = "https://github.com/tanuja-2/ML_OPs-main/tree/main/Session_3_ML_Pipeline/titanic-assignment/Assignment-2"
+EMAIL = "tanujatanushree301@gmail.com"
+AUTHOR = "Tanuja Tanushree"
 REQUIRES_PYTHON = ">=3.6.0"
 
 
